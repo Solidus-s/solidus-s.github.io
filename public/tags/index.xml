@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shaggy</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://solidus-s.github.io/tags/</link>
     <description>Recent content in Tags on Shaggy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://solidus-s.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>I loathe AI</title>
-      <link>http://localhost:1313/i-loathe-ai/</link>
+      <link>https://solidus-s.github.io/i-loathe-ai/</link>
       <pubDate>Thu, 29 Oct 2026 21:27:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/i-loathe-ai/</guid>
+      <guid>https://solidus-s.github.io/i-loathe-ai/</guid>
       <description>&lt;h2 id=&#34;my-views-on-ai&#34;&gt;My views on AI&lt;/h2&gt;
 &lt;p&gt;In my personal opinion I believe AI is pretty overhyped
 and is something that shouldn&amp;rsquo;t be used to the extent it
