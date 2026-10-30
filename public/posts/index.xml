@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Shaggy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:29:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:53:30 +0530</lastBuildDate>
     
 	<atom:link href="https://solidus-s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Is Linux the Perfect OS?</title>
       <link>https://solidus-s.github.io/is-linux-the-perfect-os/</link>
-      <pubDate>Fri, 30 Oct 2026 20:29:00 +0530</pubDate>
+      <pubDate>Fri, 30 Oct 2026 20:53:30 +0530</pubDate>
       
       <guid>https://solidus-s.github.io/is-linux-the-perfect-os/</guid>
       <description>&lt;h2 id=&#34;its-better-than-most-oses&#34;&gt;It&amp;rsquo;s better than most OSes&lt;/h2&gt;
@@ -90,6 +90,24 @@ problem.&lt;/p&gt;
 &lt;p&gt;But if all of that doesn&amp;rsquo;t really bother than you&amp;hellip; then yes!
 linux is perfect. You can game, program, customize it, etc,. The sky&amp;rsquo;s
 the limit with Linux.&lt;/p&gt;
+&lt;p&gt;Linux teaches you that you have control over your computer.
+These companies should not own nor decide what you do
+with things &lt;strong&gt;you&lt;/strong&gt; own.&lt;/p&gt;
+&lt;h3 id=&#34;about-gaming&#34;&gt;About gaming&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;d be surprised just how many of your favorite games can
+run on linux comfortably. Yes, maybe there will be some
+hiccups if you are using a compatibility layer like proton or
+playing a badly optimized &amp;ldquo;native&amp;rdquo; game (looking at you valve).&lt;/p&gt;
+&lt;p&gt;If you are curious about that check out
+&lt;a href=&#34;https://www.protondb.com/&#34;&gt;ProtonDB&lt;/a&gt;.
+ProtonDB documents so many games on steam whether or not
+if it works on steamdeck or a desktop linux experiences.&lt;/p&gt;
+&lt;h3 id=&#34;about-programming&#34;&gt;About programming&lt;/h3&gt;
+&lt;p&gt;Using linux has gotten me into using vim
+(its a text editor in the terminal).
+It has changed the way I program and do
+certain things even when using a MacBook.&lt;/p&gt;
+&lt;p&gt;Linux has to be one of the greatest havens for a programmer.&lt;/p&gt;
 &lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DB6UWGeNePk&#34;&gt;https://www.youtube.com/watch?v=DB6UWGeNePk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://unixdigest.com/articles/no-linus-torvalds-you-are-not-just-using-a-new-and-interesting-tool.html&#34;&gt;https://unixdigest.com/articles/no-linus-torvalds-you-are-not-just-using-a-new-and-interesting-tool.html&lt;/a&gt;&lt;/p&gt;
