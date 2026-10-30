@@ -6,9 +6,96 @@
     <description>Recent content in Posts on Shaggy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:27:18 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:29:00 +0530</lastBuildDate>
     
 	<atom:link href="https://solidus-s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Is Linux the Perfect OS?</title>
+      <link>https://solidus-s.github.io/is-linux-the-perfect-os/</link>
+      <pubDate>Fri, 30 Oct 2026 20:29:00 +0530</pubDate>
+      
+      <guid>https://solidus-s.github.io/is-linux-the-perfect-os/</guid>
+      <description>&lt;h2 id=&#34;its-better-than-most-oses&#34;&gt;It&amp;rsquo;s better than most OSes&lt;/h2&gt;
+&lt;p&gt;Windows has to be one of the worse operating systems
+on the market. You are fed updates constantly when
+you don&amp;rsquo;t want nor need them, it is uncustomizable,
+sluggishly slow and you have zero privacy whatsoever.&lt;/p&gt;
+&lt;p&gt;Windows 11 has to be one of the most unusable and privacy
+invasive OS I have ever used. Now here is
+a story: I had to use windows 11 one time on a relative&amp;rsquo;s computer,
+and it was a miserable experience. I can&amp;rsquo;t really explain it in
+a good and concise way, but trying to use windows 11 is like
+trying to do a handstand when you don&amp;rsquo;t need to. File
+explorer has somehow gotten worse and more confusing despite
+it being the most important app on any OS.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://solidus-s.github.io/pix/windows11cry.jpg&#34;
+			alt=&#34;Soyjack crying over having to upgrade to windows 11&#34;&gt;&lt;figcaption&gt;
+			&lt;p&gt;Windows 11 Soyware&lt;/p&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;MacOS is a pretty okay OS, since it is well known that
+MacOS is based on FreeBSD afterall lmao. Even with
+that fact in mind, MacOS is very restricting and treats
+its users like toddlers. You &lt;strong&gt;can&amp;rsquo;t&lt;/strong&gt; really customize MacOS
+the way you want to, you can only get what apple gives you.&lt;/p&gt;
+&lt;p&gt;The M-series chips although impressive,
+is stifled by a bad OS. Can you imagine just
+how &lt;strong&gt;insane&lt;/strong&gt; the M-series chips would be if you
+can actually use it to play any game or use any OS? With how
+unstable MacOS is and undocumented the M-series
+chips are, it will never be good for those kind of things.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MacOS and Macbooks are smart-person proof&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;my-story&#34;&gt;My story&lt;/h3&gt;
+&lt;p&gt;I was honestly quite sad that windows 10 was going
+to be unsupported a few years ago and I started looking
+into linux.&lt;/p&gt;
+&lt;p&gt;Which was a really good decision despite whatever
+problems I was dealing with. I got into it in the first
+place since I heard it has good privacy and you can
+customize it to your heart&amp;rsquo;s content.&lt;/p&gt;
+&lt;p&gt;Seriously it is amazing just how customizable
+linux is. Look at &lt;a href=&#34;https://www.reddit.com/r/unixporn/&#34;&gt;r/unixporn&lt;/a&gt;
+for example for a few minutes.&lt;/p&gt;
+&lt;p&gt;The best part about linux is the Free and Open-Source Software.
+Maybe if you aren&amp;rsquo;t a programmer it doesn&amp;rsquo;t matter. But keep in
+mind that MacOS, Windows and its programs are
+closed-source. You have no idea what programs you are
+running on your own computer nor can you check the code or
+modify it.&lt;/p&gt;
+&lt;h2 id=&#34;but-is-linux-perfect&#34;&gt;But is linux perfect?&lt;/h2&gt;
+&lt;p&gt;No not really. A perfect OS would be something like
+&lt;a href=&#34;https://templeos.org/&#34;&gt;TempleOS&lt;/a&gt; or &lt;a href=&#34;https://www.freebsd.org/&#34;&gt;FreeBSD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The problem with linux is that if you&amp;rsquo;re someone
+who doesn&amp;rsquo;t care about computers, you are gonna have a bad time.
+It is cause trying to use linux takes patience to use
+and understand. There are also so many distros, it is hard
+to pick one if you&amp;rsquo;re starting out. (sidenote: on picking
+a distro&amp;hellip; a beginner should start with linux mint, and if
+you&amp;rsquo;re are experienced use artix linux. [sidesidenote: please for the love of god do &lt;strong&gt;NOT&lt;/strong&gt; use ubuntu])&lt;/p&gt;
+&lt;p&gt;Linux is an amalgamation of GNU utilities and allot of other
+programs. Allot of other OSes don&amp;rsquo;t really have this unique
+problem.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://solidus-s.github.io/pix/gnulinuxcats.jpg&#34;
+			alt=&#34;One cat saying it is GNU plus linux while the other one says shut up&#34;&gt;&lt;figcaption&gt;
+			&lt;p&gt;It&amp;rsquo;s GNU/Linux!&lt;/p&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But if all of that doesn&amp;rsquo;t really bother than you&amp;hellip; then yes!
+linux is perfect. You can game, program, customize it, etc,. The sky&amp;rsquo;s
+the limit with Linux.&lt;/p&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DB6UWGeNePk&#34;&gt;https://www.youtube.com/watch?v=DB6UWGeNePk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unixdigest.com/articles/no-linus-torvalds-you-are-not-just-using-a-new-and-interesting-tool.html&#34;&gt;https://unixdigest.com/articles/no-linus-torvalds-you-are-not-just-using-a-new-and-interesting-tool.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drewdevault.com/blog/AI-in-Linux/&#34;&gt;https://drewdevault.com/blog/AI-in-Linux/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     
     
@@ -82,8 +169,6 @@ life without AI.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.frank.computer/blog/2025/05/just-a-tool.html&#34;&gt;https://www.frank.computer/blog/2025/05/just-a-tool.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
-    
-    
     
     
     
