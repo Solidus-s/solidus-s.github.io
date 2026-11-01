@@ -6,9 +6,81 @@
     <description>Recent content in Posts on Shaggy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:59:30 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://solidus-s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>RSS is pretty good</title>
+      <link>https://solidus-s.github.io/rss-is-pretty-good/</link>
+      <pubDate>Sun, 01 Nov 2026 19:00:00 +0530</pubDate>
+      
+      <guid>https://solidus-s.github.io/rss-is-pretty-good/</guid>
+      <description>&lt;h2 id=&#34;what-is-rss&#34;&gt;What is RSS?&lt;/h2&gt;
+&lt;p&gt;RSS stands for Really Simple Syndication.
+its main use is for getting updates
+from websites that use RSS in one nice app. For example:
+blogs (like mine), news, youtube, etc,.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://solidus-s.github.io/pix/netnews.png&#34;
+			alt=&#34;RSS feed app with my blog&#34;&gt;&lt;figcaption&gt;
+			&lt;p&gt;An example of what my RSS feed looks like&lt;/p&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;where-to-find-rss&#34;&gt;Where to find RSS&lt;/h2&gt;
+&lt;p&gt;Most blogs will have an RSS link on
+their page. If you copy the link on the
+RSS button on my website and paste it into your
+favorite feed app, you now have a nice way
+to get updates on my website without having
+to search for it on your browser.&lt;/p&gt;
+&lt;p&gt;Sometimes it isn&amp;rsquo;t really that easy and you
+&lt;strong&gt;will&lt;/strong&gt; have to look a little bit. Fret not,
+I have two links to save the day.&lt;/p&gt;
+&lt;p&gt;One is a &lt;a href=&#34;https://www.youtube.com/feeds/videos.xml?channel_id=&#34;&gt;youtube RSS link&lt;/a&gt;, if you take the link
+and put your favorite youtuber&amp;rsquo;s channel ID
+at the end of the link, you now have a feed.
+The way to find your youtuber&amp;rsquo;s channel ID
+is to go on their page, click &amp;ldquo;more&amp;rdquo; right above the
+subscribe button, share channel and then copy
+channel ID. Every youtuber has a unique channel ID
+that is a bunch of random letters and numbers.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://solidus-s.github.io/pix/myytid.png&#34;
+			alt=&#34;My Youtube channel page showing where to find channel ID&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Two is a &lt;a href=&#34;https://rss-finder.rook1e.com/&#34;&gt;RSS finder website&lt;/a&gt;,
+you put the website&amp;rsquo;s link
+you want a RSS for and it finds it for you.
+In some cases, websites will just straight up
+not have a feed for you to grab.&lt;/p&gt;
+&lt;h2 id=&#34;what-app-to-use&#34;&gt;What app to use?&lt;/h2&gt;
+&lt;p&gt;Honestly it is up to you. I can only recommend two
+in my opinion. One is &lt;a href=&#34;https://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt;
+which is really nice to use on MacOS and iOS.
+Two is &lt;a href=&#34;http://www.mutt.org/&#34;&gt;Mutt&lt;/a&gt; if you
+want RSS feeds in the terminal, it does take some
+setup though.&lt;/p&gt;
+&lt;h2 id=&#34;why-bother&#34;&gt;Why bother?&lt;/h2&gt;
+&lt;p&gt;Nowadays people are spoon-fed content and
+endlessly consume things they really hate or will inevitably
+forget. With RSS you most likely will still
+consume endlessly, but at least you have the
+choice of what you want to see.&lt;/p&gt;
+&lt;p&gt;It is also a nice way to avoid the news –
+lets be honest humans have a negativity bias,
+and news outlets abuse that constantly. You can
+also be fed propaganda on news sites.&lt;/p&gt;
+&lt;p&gt;With youtube, well youtube is designed to be
+very addictive and hook users in.&lt;/p&gt;
+&lt;p&gt;Stop consuming slop and things you hate. It is
+important that we are intentional with what we
+expose ourselves in a day and age of endless
+content and information.&lt;/p&gt;
+</description>
+    </item>
     
     
     
